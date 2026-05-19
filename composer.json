@@ -1,0 +1,31 @@
+{
+    "name": "dcodegroup/bugsnag-laravel-mcp",
+    "description": "Basic MCP for integrating Bugsnag into AI workflows",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Dcodegroup\\BugsnagLaravelMcp\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Kath Young",
+            "email": "Kath@dcodegroup.com.au"
+        }
+    ],
+    "require": {
+        "laravel/mcp": "^0.7.0"
+    },
+    "require-dev": {
+        "orchestra/testbench": "^11.1",
+        "laravel/pint": "^1.29",
+        "pestphp/pest": "^4.7",
+        "phpstan/phpstan": "^2.1"
+    },
+    "config": {
+        "allow-plugins": {
+            "pestphp/pest-plugin": true
+        }
+    }
+}
