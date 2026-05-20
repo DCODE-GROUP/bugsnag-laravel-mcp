@@ -1,0 +1,3 @@
+providers:
+  - Dcodegroup\BugsnagLaravelMcp\Providers\BugsnagMcpProvider
+  - Saloon\Laravel\SaloonServiceProvider
