@@ -1,0 +1,7 @@
+env:
+  CACHE_STORE: file
+
+providers:
+  - Dcodegroup\BugsnagLaravelMcp\Providers\BugsnagMcpProvider
+  - Saloon\Laravel\SaloonServiceProvider
+  - Workbench\App\Providers\WorkbenchServiceProvider

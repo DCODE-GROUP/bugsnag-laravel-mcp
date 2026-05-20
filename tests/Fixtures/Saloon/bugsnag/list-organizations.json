@@ -1,0 +1,27 @@
+{
+    "statusCode": 200,
+    "headers": {
+        "Server": "nginx",
+        "Date": "Wed, 20 May 2026 00:34:43 GMT",
+        "Content-Type": "application\/json; charset=utf-8",
+        "Content-Length": "790",
+        "x-ratelimit-limit": "100",
+        "x-ratelimit-remaining": "99",
+        "etag": "W\/\"93e6836470d1c7e25181c12b6bbf3e38\"",
+        "cache-control": "max-age=0, private, must-revalidate",
+        "x-request-id": "91230c9d-8a0a-4cad-81df-a480df80c2fc",
+        "vary": "Origin",
+        "x-frame-options": "DENY",
+        "x-content-type-options": "nosniff",
+        "x-xss-protection": "1; mode=block",
+        "x-download-options": "noopen",
+        "x-permitted-cross-domain-policies": "none",
+        "content-security-policy": "default-src 'self'; child-src https:\/\/*.stripe.com https:\/\/*.youtube.com https:\/\/www.google.com https:\/\/www.recaptcha.net https:\/\/*.bing.com https:\/\/*.clarity.ms https:\/\/*.doubleclick.net headway-widget.net https:\/\/app.pendo.io https:\/\/*.amplitude.com https:\/\/data.analytics.bugsnag.com; connect-src 'self' https:\/\/smartbear.my.site.com https:\/\/smartbear.my.salesforce-scrt.com https:\/\/api.bugsnag.com https:\/\/notify.bugsnag.com https:\/\/sessions.bugsnag.com https:\/\/otlp.bugsnag.com https:\/\/otlp-repeater.bugsnag.com https:\/\/*.stripe.com https:\/\/api.lever.co https:\/\/www.googletagmanager.com https:\/\/googleads.g.doubleclick.net https:\/\/*.bing.com https:\/\/*.clarity.ms https:\/\/bugtel.bugsnag.com:4318 https:\/\/d2wy8f7a9ursnm.cloudfront.net https:\/\/app.pendo.io https:\/\/*.amplitude.com https:\/\/content.analytics.bugsnag.com https:\/\/data.analytics.bugsnag.com https:\/\/bugsnag.zendesk.com https:\/\/ekr.zdassets.com https:\/\/ekr.zendesk.com https:\/\/static.zdassets.com https:\/\/*.zopim.com https:\/\/zendesk-eu.my.sentry.io wss:\/\/bugsnag.zendesk.com wss:\/\/*.zopim.com *.metrics.convertexperiments.com *.convertexperiments.com; font-src 'self' https:\/\/maxcdn.bootstrapcdn.com https:\/\/d2wy8f7a9ursnm.cloudfront.net; frame-src https:\/\/*.stripe.com https:\/\/*.recaptcha.net https:\/\/*.doubleclick.net https:\/\/smartbear.my.site.com https:\/\/headway-widget.net https:\/\/app.pendo.io https:\/\/*.amplitude.com https:\/\/data.analytics.bugsnag.com; img-src 'self' data: https:\/\/notify.bugsnag.com https:\/\/*.stripe.com https:\/\/maxcdn.bootstrapcdn.com https:\/\/*.linkedin.com https:\/\/www.google.com https:\/\/www.google.co.uk https:\/\/www.googletagmanager.com https:\/\/*.clarity.ms https:\/\/*.bing.com https:\/\/*.doubleclick.net https:\/\/p.adsymptotic.com https:\/\/d2wy8f7a9ursnm.cloudfront.net https:\/\/*.pendo.io https:\/\/*.amplitude.com https:\/\/pendo-static-5668600916475904.storage.googleapis.com https:\/\/content.analytics.bugsnag.com https:\/\/data.analytics.bugsnag.com; object-src 'self'; script-src 'self' 'unsafe-eval' https:\/\/smartbear.my.site.com https:\/\/*.stripe.com https:\/\/maxcdn.bootstrapcdn.com https:\/\/code.jquery.com https:\/\/www.recaptcha.net https:\/\/www.gstatic.com https:\/\/www.googletagmanager.com https:\/\/*.bing.com https:\/\/*.clarity.ms https:\/\/*.cloudfront.net https:\/\/static.zdassets.com https:\/\/ekr.zdassets.com https:\/\/cdn.headwayapp.co https:\/\/app.pendo.io https:\/\/*.amplitude.com https:\/\/content.analytics.bugsnag.com https:\/\/data.analytics.bugsnag.com *.convertexperiments.com; style-src 'self' 'unsafe-inline' https:\/\/maxcdn.bootstrapcdn.com https:\/\/*.bing.com https:\/\/smartbear.my.site.com https:\/\/d2wy8f7a9ursnm.cloudfront.net https:\/\/content.analytics.bugsnag.com https:\/\/data.analytics.bugsnag.com",
+        "X-Robots-Tag": "noindex, nofollow",
+        "Strict-Transport-Security": "max-age=31536000",
+        "Via": "1.1 google",
+        "Alt-Svc": "h3=\":443\"; ma=2592000"
+    },
+    "data": "[{\"id\":\"4845c1fb-e427-3643-a22c-d2cea8d701eb\",\"name\":\"Wisoky, Stiedemann and Gibson\",\"api_key\":\"REDACTED\",\"slug\":\"wisoky,-stiedemann-and-gibson\",\"creator\":{\"name\":\"Ms. Laurence Reichert II\",\"email\":\"ward.carlie@reichel.com\",\"id\":\"f217fe36-7e13-34f3-9438-e6cc8d9768e3\"},\"collaborators_url\":\"https:\\\/\\\/api.bugsnag.com\\\/organizations\\\/4845c1fb-e427-3643-a22c-d2cea8d701eb\\\/collaborators\",\"projects_url\":\"https:\\\/\\\/api.bugsnag.com\\\/organizations\\\/4845c1fb-e427-3643-a22c-d2cea8d701eb\\\/projects\",\"created_at\":\"2015-08-11T00:27:30.229Z\",\"updated_at\":\"2026-05-19T05:45:20.381Z\",\"auto_upgrade\":false,\"upgrade_url\":\"https:\\\/\\\/app.bugsnag.com\\\/settings\\\/4845c1fb-e427-3643-a22c-d2cea8d701eb\\\/upgrade\",\"can_start_pro_trial\":true,\"pro_trial_ends_at\":null,\"pro_trial_feature\":true,\"managed_by_platform_services\":false,\"billing_emails\":[\"runolfsson.rowland@mckenzie.info\"]}]",
+    "context": []
+}
