@@ -54,7 +54,7 @@ it('can execute the GetBugsnagError tool', function () {
     $mockClient->shouldReceive('getErrorEvents')
         ->once()
         ->with($projectId, $errorId)
-        ->andReturn(collect([['id' => $eventId]]));
+        ->andReturn(collect([$mockEvent]));
 
     $mockClient->shouldReceive('getEvent')
         ->once()

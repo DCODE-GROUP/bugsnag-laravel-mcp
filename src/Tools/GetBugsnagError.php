@@ -23,7 +23,7 @@ class GetBugsnagError extends Tool
 
         $events = $client->getErrorEvents($projectId, $errorId);
 
-        $latestEvent = $client->getEvent($projectId, $events[0]['id']);
+        $latestEvent = $client->getEvent($projectId, $events->first()?->id);
 
         return Response::text(json_encode([
             'error' => $error,
